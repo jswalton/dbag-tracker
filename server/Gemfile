@@ -1,0 +1,20 @@
+source 'https://rubygems.org'
+
+gem 'sinatra'
+  gem 'aws-sdk'
+  gem "sinatra-activerecord"
+  gem 'bson_ext' 
+  gem "activerecord"
+  gem 'bson'
+  gem "sinatra-activerecord"
+  gem "rake"
+group :development do
+  gem 'foreman'
+  gem 'pg'
+  gem 'heroku'
+end
+group :production do
+  gem 'foreman'
+  gem 'pg'
+  gem 'heroku'
+end

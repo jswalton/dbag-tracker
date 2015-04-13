@@ -1,0 +1,9 @@
+development:
+    host: localhost
+    port: 15432
+    pool: 5	
+    encoding: utf8
+    adapter: postgresql
+    database: dtrackerdb
+    username: dtrackeradmin
+    password: dtracker4dm1n!
