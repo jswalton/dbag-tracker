@@ -14,8 +14,8 @@ Most of the hardware choices were made with size considerations in mind. There i
 
 ##Software Concept Component
 
-Keeping with the rapid prototyping paradigm a sinatra/heroku/cedar template was used to rapidly create a REST api for posting location data 
-Postgres is used for data storage
+Keeping with the rapid prototyping paradigm a sinatra/heroku/cedar template was used to rapidly create a REST API for posting location data. 
+Postgres is used for data storage.
 
 
 ## Future...
