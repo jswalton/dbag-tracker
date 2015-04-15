@@ -17,9 +17,9 @@
 In order to quickly model hardware components, many "breakout" components were used. This allows for quick proofing and feasability studies.
 
 Hardware used: 
-- [Adafruit Flora!](https://learn.adafruit.com/getting-started-with-flora) (Atmega32u4) - Arduino Compatable
-- [Adafruit Fona!](https://learn.adafruit.com/adafruit-fona-mini-gsm-gprs-cellular-phone-module) - GRPS/SIM Module
-- [Adafruit Wearable GPS!](https://learn.adafruit.com/flora-wearable-gps) - GPS Module 
+- [Adafruit Flora](https://learn.adafruit.com/getting-started-with-flora) (Atmega32u4) - Arduino Compatable
+- [Adafruit Fona](https://learn.adafruit.com/adafruit-fona-mini-gsm-gprs-cellular-phone-module) - GRPS/SIM Module
+- [Adafruit Wearable GPS](https://learn.adafruit.com/flora-wearable-gps) - GPS Module 
 
 Most of the hardware choices were made with size considerations in mind. There is no particular strategy for types/brands.
 
