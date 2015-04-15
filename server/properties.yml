@@ -1,8 +1,0 @@
-aws:
- region: "your regions"
- access_key_id: "SOMEACCESSKEY"
- secret_access_key: "SOMESECRETKEY"
- environment:
-  id: "e-nvironmentid"
-options:
- cachecontrol: "no-cache"

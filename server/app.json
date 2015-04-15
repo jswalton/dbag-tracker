@@ -1,12 +1,12 @@
 {
-  "name": "elasticbeanstalk-badger",
-  "description": "Retreive Environment Badges for AWS EBS",
+  "name": "dbag-tracker",
+  "description": "tracking sport/tandem cutaways",
   "keywords": [
     "sinatra",
     "heroku",
     "cedar",
     "template"
   ],
-  "website": "https://github.com/jswalton/elasticbeanstalk-badger",
-  "repository": "https://github.com/jswalton/elasticbeanstalk-badger"
+  "website": "https://github.com/jswalton/dbag-tracker",
+  "repository": "https://github.com/jswalton/dbag-tracker"
 }
