@@ -1,6 +1,6 @@
 # dbag-tracker (Proof of concept)
 
-## tracking tandem/sport cut-aways 
+tracking tandem/sport cut-aways 
 
 ##Hardware Concept Component
 In order to quickly model hardware components, many "breakout" components were used. This allows for quick proofing and feasability studies.
