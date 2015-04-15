@@ -2,17 +2,6 @@
 
 ## tracking tandem/sport cut-aways 
 
-- [x] Develop Device concept - Feasability study with GRPS/GPS breakout hardware - Arduino based 
-- [x] Develop Server side concept - functionality to receive coordinates (lat,long)
-- [ ] Drop this shit out of airplanes & Track it (fun stuff)
-- [ ] Refine hardware concepts - breakway activation?
-- [ ] Refine software/server concepts - secure, proprietary and central location for client device data 
-- [ ] Throw it out of planes again 
-- [ ] TBD
-
-![WHAT](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJxJlwtgETzeSCHs6jXv5DuGiO4ENjNapZwDfp4ReU6-5dJNrrqglzTo8)
-
-
 ##Hardware Concept Component
 In order to quickly model hardware components, many "breakout" components were used. This allows for quick proofing and feasability studies.
 
@@ -28,3 +17,15 @@ Most of the hardware choices were made with size considerations in mind. There i
 Keeping with the rapid prototyping paradigm a sinatra/heroku/cedar template was used to rapidly create a REST api for posting location data 
 Postgres is used for data storage
 
+
+## Future...
+
+- [x] Develop Device concept - Feasability study with GRPS/GPS breakout hardware - Arduino based 
+- [x] Develop Server side concept - functionality to receive coordinates (lat,long)
+- [ ] Drop this shit out of airplanes & Track it (fun stuff)
+- [ ] Refine hardware concepts - breakway activation?
+- [ ] Refine software/server concepts - secure, proprietary and central location for client device data 
+- [ ] Throw it out of planes again 
+- [ ] TBD
+
+![WHAT](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJxJlwtgETzeSCHs6jXv5DuGiO4ENjNapZwDfp4ReU6-5dJNrrqglzTo8)
