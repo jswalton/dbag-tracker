@@ -1,6 +1,6 @@
 # dbag-tracker (Proof of concept)
 
-## proof of concept -- tracking tandem/sport cut-aways 
+## tracking tandem/sport cut-aways 
 
 - [x] Develop Device concept - Feasability study with GRPS/GPS breakout hardware - Arduino based 
 - [x] Develop Server side concept - functionality to receive coordinates (lat,long)
